@@ -1,10 +1,3 @@
-/**
- * OOPSBannerApp
- * UC3: Optimized banner using String.join()
- * 
- * @author Parth
- * @version 3.0
- */
 public class OOPSBannerApp {
 
     public static void main(String[] args) {
